@@ -20,4 +20,4 @@ Features:
 - Code structured in an easy-to-follow format for both beginners and intermediate users.
 
 
-[Watch the Training video](videos/gans_training.mp4)
+[Watch the Training video](https://github.com/blaze56768/GAN-Playground/tree/main/videos/gans_training.mp4)
