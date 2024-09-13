@@ -20,3 +20,4 @@ Features:
 - Code structured in an easy-to-follow format for both beginners and intermediate users.
 
 
+[Watch the Training video](videos/gans_training.mp4)
